@@ -1,0 +1,41 @@
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 584px;
+  height: 46px;
+  padding: 0 14px;
+  column-gap: 14px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+}
+
+.search:hover {
+  box-shadow: var(--input-box-shadow);
+}
+
+.icon-search {
+  width: 20px;
+  height: 20px;
+}
+
+.icon-search path {
+  fill: #9aa0a6
+}
+
+.icon-mic {
+  width: 24px;
+  height: 24px;
+}
+
+.search input { 
+  flex: 1;
+  border: 0;
+  background: transparent;
+  outline: none;
+}
+
+.search button {
+  background: transparent;
+}

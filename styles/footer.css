@@ -1,0 +1,31 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+
+  background: var(--background-footer);
+}
+
+.footer span, footer li a {
+  font-size: 14px;
+  color: var(--tertiary);  
+}
+
+.footer span {
+  padding: 15px 30px;
+  border-bottom: 1px solid #dadce0;
+}
+
+.footer__links {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px 30px;
+}
+
+.footer__links ul {
+  list-style: none;
+
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
