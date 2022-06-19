@@ -24,7 +24,7 @@
 
 ## 💻 Projeto
 
-Este projeto é um tutorial que ensina a como recriar a interface do *Google** ao usar _HTML_ e _CSS_.
+Este projeto é um tutorial que ensina a como recriar a interface do **Google** ao usar _HTML_ e _CSS_.
 
 
 ## 🚀 Tecnologias
