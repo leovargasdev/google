@@ -1,5 +1,5 @@
 <h1 align="center">
-  Google
+  UI Clone - Google
 </h1>
 
 <p align="center">
@@ -31,26 +31,37 @@ Este projeto é um tutorial que ensina a como recriar a interface do **Google** 
 
 - HTML
 - CSS
+- JavaScript
 
-## 📔 Conhecimentos abordados
+## 📔 Funcionalidades
 
 - [x]  Uso semântico do HTML
 - [x]  Uso de variáveis globais no `:root`
-<!-- - [x]  Menu interativo -->
-<!-- - [x]  Responsividade da aplicação com `@media` -->
+- [x]  Capturar o texto do input e buscar no **Google**
+- [x]  Criar barra com o histórico das buscas
+- [x]  Salvar as buscas no `localStorage`
+- [x]  Criar o menu de aplicativos
+- [x]  Evento para abrir/fechar o menu de aplicavos
+- [x]  Responsividade
 
+### Sugestão funcionalidades
 
-<!-- ## Vídeos no youtube 
+- [ ]  Usar a função `createElement` nos filhos da âncora
+- [ ]  Função para remover o item do histórico
+- [ ]  Criar o menu do usuário
+- [ ]  Fechar o menu de apps ao perder o foco
 
-### #1 DISNEY PLUS - CRIANDO A INTERFACE E INTEGRANDO COM A API
+## Vídeos no youtube 
 
-<a href="https://www.youtube.com/watch?v=3pAnc4Miv00" target="_blank">
- <img src="https://img.youtube.com/vi/3pAnc4Miv00/maxresdefault.jpg" width="100%" height="auto" />
+### #1 HOMEPAGE DO GOOGLE - ESTRUTURA DA PÁGINA | HTML CSS
+
+<a href="https://www.youtube.com/watch?v=fggcHsk-4nw" target="_blank">
+ <img src="https://img.youtube.com/vi/fggcHsk-4nw/maxresdefault.jpg" width="100%" height="auto" />
 </a>
 
 ---
-### #2 DISNEY PLUS - MELHORIAS DE PERFORMANCE E MENU LATERAL
+### #2 HOMEPAGE DO GOOGLE - HISTÓRICO DE BUSCA, MENU APP E RESPONSIVIDADE | HTML CSS
 
-<a href="https://www.youtube.com/watch?v=3IdLROHFKqM" target="_blank">
- <img src="https://img.youtube.com/vi/3IdLROHFKqM/maxresdefault.jpg" width="100%" height="auto" />
-</a> -->
+<a href="https://www.youtube.com/watch?v=N0y6DPjZ3wc" target="_blank">
+ <img src="https://img.youtube.com/vi/N0y6DPjZ3wc/maxresdefault.jpg" width="100%" height="auto" />
+</a>
